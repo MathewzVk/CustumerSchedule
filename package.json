@@ -6,9 +6,15 @@
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
+    "apex": "^0.1.2",
+    "axios": "^0.25.0",
+    "chart.js": "^3.7.0",
+    "cors": "^2.8.5",
     "react": "^17.0.2",
+    "react-chartjs-2": "^4.0.1",
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",
+    "recharts": "^2.1.8",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -34,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "eslint-plugin-react-hooks": "^4.3.0"
   }
 }
