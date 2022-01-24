@@ -1,3 +1,6 @@
+proxy url = https://cors-anywhere.herokuapp.com/corsdemo
+# use the proxy url get the JSON date 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
